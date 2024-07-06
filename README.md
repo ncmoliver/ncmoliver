@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ncmoliver
-- 👀 I’m interested in an entry-level postion **Data Analyitics** role. 
+- 👀 I’m interested in an entry-level postion **Data Analytics** role. 
 - 🌱 I’m currently learning Python and AI as a bootcamp student at the UNC Chapel Hill.
 - 🤝 I would be happy to collaborate with an experienced programmer interested in handing over the light work, for my first project in Python. 
 - 📫 How to reach me ... **mrmarquesoliver@gmail.com**

@@ -1,9 +1,10 @@
-- 👋 Hi, I’m @ncmoliver
-- 👀 I’m interested in an entry-level postion **Data Analytics** role. 
-- 🌱 I’m currently learning Python and AI as a bootcamp student at the UNC Chapel Hill.
-- 🤝 I would be happy to collaborate with an experienced programmer interested in handing over the light work, for my first project in Python. 
+- 👋 Hi, My name is Marques 
+- 👀 I’m interested in learning almost every and anything.
+- 🏀 7 Years playing overseas basketballl (Germany, Iceland, France)
+- ⏳ During that time is where I fell in love with learning computer programming.
+- 🌱 I’m currently a bootcamp student at the UNC Chapel Hill, learning Python and Artificial Intelligence
+- 🤝 I would be happy to collaborate with any driven programmer interested in collaborating, for my first group project. 
 - 📫 How to reach me ... **mrmarquesoliver@gmail.com**
-- ⚡ Fun fact: While playing overseas basketball, I utilized my free time to learn programming languages through Udemy, gaining experience in Python, JavaScript, EJS, JSX, and React. This prepared me to join the AI bootcamp at UNC Chapel Hill, where I am now focused on pursuing an entry-level data analyst role.. 
 
 <!---
 ncmoliver/ncmoliver is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

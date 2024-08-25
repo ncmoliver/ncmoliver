@@ -1,5 +1,5 @@
 - 👋 Hi, My name is Marques 
-- 👀 I’m interested in learning almost every and anything (so far...Html, Css, Javascript, EJS, JSX, REACT, Python)
+- 👀 I’m interested in focusing on data analysis, visualizations, and predictions using python.
 - 🏀 7 Years playing overseas basketballl (Germany, Iceland, France)
 - ⏳ During that time is where I fell in love with learning computer programming.
 - 🌱 I’m currently a bootcamp student at the UNC Chapel Hill, learning Python and Artificial Intelligence
